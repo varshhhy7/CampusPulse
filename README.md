@@ -1,8 +1,5 @@
-# StudentSynapse
-Here is a **complete and professionally written `README.md` file** for your GitHub repository based on the contents of your project.
 
 ---
-
 # 🎓 StudentSynapse : Understanding Student Behavior Through Data Science
 
 This project explores student behavior using anonymized educational data collected from a survey conducted at IIT Guwahati. The goal is to uncover hidden patterns in academic performance, stress levels, and personal relationships by applying data cleaning, visualization, and machine learning techniques.
